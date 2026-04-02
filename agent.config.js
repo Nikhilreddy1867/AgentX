@@ -14,10 +14,10 @@ const agentConfig = {
 
   // ─── BASIC INFO ───────────────────────────────────────────────
   // Your agent's name and branding (shown in the header & title)
-  name: "AgentX",
+  name: "23BD1A054B",
   emoji: "🤖",
   tagline: "Your AI Conversation Buddy",
-  description: "I remember everything about you and get smarter the more we talk.",
+  description: "Iam your AI buddy",
 
   // ─── PERSONALITY ──────────────────────────────────────────────
   // Write your agent's core personality. This is always included
@@ -28,6 +28,7 @@ const agentConfig = {
   coreRules: [
     "Keep replies to 3-5 sentences. Be engaging and natural.",
     "Ask exactly ONE follow-up question per reply.",
+    "Every thing has to be in professional way"
   ],
 
   // ─── DEPTH-AWARE BEHAVIOR ─────────────────────────────────────
